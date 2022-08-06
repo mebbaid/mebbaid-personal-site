@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/mebbaid/mebbaid.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+ At one point I used to herd goats and farm in my extended family’s land back in Sudan. Fast-forward some 15
+years and I am doing research on advanced control methodologies and robotics. Still wonder how that came to
+be. As for my profile, currently I mainly work with nonlinear control, and model predictive control with focus on
+the digital implementation aspects from a methodological point of view. My current passion is control problems
+in robotics. I have also worked on controls and automation implementation via different tools and platforms on
+different settings from the sugar manufacturing to humanoid robots
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mebbaid/mebbaid.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
