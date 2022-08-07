@@ -2,70 +2,39 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
-    detail: iCub Tech, Istituto Italiano di Tecnologia
+    detail: AMI, Istituto Italiano di Tecnologia
     i18n: company_a
   desc:
-    detail: I worked at iCub Tech as Senior Technician. In quality of Software Distro Manager, I am the responsible person for time-based software releases of the iCub-Tech department. Recently, I participated to a project for defining a general purpose telemetry library and I developed a suite for controlling robots through Blender. I have also partecipated to the web-based app deployment of iCub-Tech, robot-bazaar.
+    detail: Responsible for the IIT-Honda joint lab.
   date:
-    detail: May. 2022 to now
+    detail: Feb. 2022 to now
     i18n: company_a_date
   job:
-    detail: Senior Technician
+    detail: Collaborator
     i18n: company_a_job
   icon: fa-cogs
 
 - name:
-    detail: iCub Facility, Istituto Italiano di Tecnologia
+    detail: DIC, Istituto Italiano di Tecnologia
     i18n: company_a
   desc:
-    detail: I worked at iCub Facility as Junior Technician, partecipating to technical and research projects. I acquired experience in software design for complex and eterogenous systems such as humanoid robots
+    detail: Worked on the first release of the walking-teleoperation software for the humanoid robot iCub as well as human robot collaboration in the context of Andy project
     i18n: company_a_desc
   date:
-    detail: Feb. 2016 to Apr. 2022
+    detail: March. 2018 to Nov. 2018
     i18n: company_a_date
   job:
-    detail: Junior Technician
+    detail: Research fellow
     i18n: company_a_job
   icon: fa-cogs
 
 - name:
-    detail: Azienda Sicura
+    detail: Kenana Engineering and technical services
     i18n: company_b
   desc:
-    detail: I followed a Java Programming course where I learned Java programming language, and other notions about Oracle database, JDBC, JSP, HTML and JavaScript.  
+    detail: Worked on several design, installation and commissioning supervision and implementation large scale projects. Work included basic automation system specification and front-end engineering design. Dealt with various process automation software and systems (e.g. Yokogawa Centum VP, Simenes PCS7).  
     i18n: company_b_desc
   date:
-    detail: Nov. 2015 to Jan. 2016
+    detail: Dec. 2011 to May. 2015
     i18n: company_b_date
-  job:
-    detail: Student
-    i18n: company_b_job
-  icon: fa-cogs
- 
-- name:
-    detail: Università degli Studi di Genova
-    i18n: company_c
-  desc:
-    detail: I achieved the master degree in Neuroengineers & Bio-ICT, 110 with honors
-    i18n: company_c_desc
-  date:
-    detail: Oct. 2013 to Oct. 2015
-    i18n: company_c_date
-  job:
-    detail: Student
-    i18n: company_c_job
-  icon: fa-graduation-cap
   
-- name:
-    detail: Università degli Studi di Genova
-    i18n: company_d
-  desc:
-    detail: I achieved the bachelor degree in Bioengineering, 108/110
-    i18n: company_d_desc
-  date:
-    detail: Oct. 2010 to Oct. 2013
-    i18n: company_d_date
-  job:
-    detail: Student
-    i18n: company_d_job
-  icon: fa-graduation-cap
