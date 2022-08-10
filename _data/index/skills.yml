@@ -1,6 +1,0 @@
-# skills section data
-
-label: Ability
-id : cs
-aspects: Git, Matlab, C++, C, YARP, CMake, Gazebo, LaTex, TIA Portal, WinCC, WonderWare Intouch, AutoCAD P&ID
-percentage: 60, 80, 65, 60, 70, 60, 70, 70, 80, 60, 55, 60, 70, 70, 70, 60 
