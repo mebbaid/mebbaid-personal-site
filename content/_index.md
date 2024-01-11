@@ -9,7 +9,7 @@ sections:
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: lrapetti
+      username: mebbaid
       # Override your bio text from `authors/lrapetti/_index.md`?
       text:
   - block: experience
@@ -29,33 +29,33 @@ sections:
           company_url: 'https://www.iit.it/'
           company_logo: iit
           location: Genoa, Italy
-          date_start: '2023-01-01'
+          date_start: '2022-02-24'
           date_end: ''
-          description:
-        - title: PhD Fellow
-          company: Istituto Italiano di Tecnologia
-          company_url: 'https://www.iit.it/'
-          company_logo: iit
-          location: Genoa, Italy
-          date_start: '2019-01-01'
-          date_end: '2022-12-31'
           description:
         - title: Research Fellow
           company: Istituto Italiano di Tecnologia
           company_url: 'https://www.iit.it/'
           company_logo: iit
           location: Genoa, Italy
-          date_start: '2018-05-01'
-          date_end: '2018-12-31'
+          date_start: '2018-01-03'
+          date_end: '2028-11-01'
           description:
-        - title: Graduate Research Fellow
-          company: University of Illinois College of Medicine
-          company_url: 'https://medicine.uic.edu/'
-          company_logo: uic
-          location: Chicago, US
-          date_start: '2016-09-01'
-          date_end: '2017-05-31'
-          description: 
+        - title: Automation Engineer
+          company: Kenana Engineering and Technical Services - KETS
+          company_url: 'https://www.kets.sd'
+          company_logo: kets
+          location: Khartoum, Sudan
+          date_start: '2012-01-01'
+          date_end: '2015-05-30'
+          description:
+        - title: Graduate Teaching assistant
+          company: University of Khartoum
+          company_url: 'https://uofk.edu/'
+          company_logo: U of K
+          location: Khartoum, Sudan
+          date_start: '2011-08-01'
+          date_end: '2011-12-31'
+          description:
     design:
       columns: '2'
   - block: contact
