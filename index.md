@@ -1,3 +1,0 @@
-#### welcome to my hideout!
-
-At one point I used to herd goats and farm in my extended family’s land back in Sudan. Fast-forward some 15 years and I am doing research on advanced control methodologies and robotics. Still wonder how that came to be. As for my profile, currently I mainly work with nonlinear control, and model predictive control with focus on the digital implementation aspects from a methodological point of view. My current passion is control problems in robotics. I have also worked on controls and automation implementation via different tools and platforms on different settings from the sugar manufacturing to humanoid robots
